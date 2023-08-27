@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/1234Victor/AmazonBot#readme",
   "dependencies": {
+    "amazon-buddy": "^1.4.22",
     "express": "^4.18.2"
   }
 }
